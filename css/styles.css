@@ -18,6 +18,8 @@ textarea {
 #survey-form {
     padding: 25px;
     border-radius:25px;
+    max-width: 50%;
+    margin:auto;
   }
 
   .form-question {
