@@ -19,3 +19,7 @@ textarea {
     padding: 25px;
     border-radius:25px;
   }
+
+  .form-question {
+    padding: 10px;
+  }
