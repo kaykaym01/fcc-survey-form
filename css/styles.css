@@ -22,6 +22,10 @@ textarea {
     margin:auto;
   }
 
-  .form-question {
-    padding: 10px;
-  }
+.form-question {
+padding: 10px;
+}
+
+#title, #description{
+    text-align:center;
+}
