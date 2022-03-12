@@ -8,3 +8,9 @@
 textarea {
   background-color: white;
 }
+
+#survey-form, .form-question,
+#survey-form label,
+#survey-form span{
+  background-color: rgb(200, 206, 275);
+}
