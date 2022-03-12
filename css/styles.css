@@ -14,3 +14,8 @@ textarea {
 #survey-form span{
   background-color: rgb(200, 206, 275);
 }
+
+#survey-form {
+    padding: 25px;
+    border-radius:25px;
+  }
