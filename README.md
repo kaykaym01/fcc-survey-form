@@ -1,5 +1,8 @@
 # fcc-survey-form
-Freecodecamp Responsive Web Design Survey Form project
+
+<p align="center">
+<img src="./img/site-screenshot.jpg" width="420" height="300">
+</p>
 
 Challenge Description: [FreeCodeCamp: Responsive Web Design Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
