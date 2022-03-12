@@ -3,3 +3,8 @@
     font-family: helvetica;
     background-color: rgb(222, 224, 255);
   }
+
+  input, select,
+textarea {
+  background-color: white;
+}
