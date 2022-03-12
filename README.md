@@ -1,5 +1,6 @@
 # fcc-survey-form
 
+Live Site: [Simple Survey Form](https://kaykaym01.github.io/fcc-survey-form/)
 <p align="center">
 <img src="./img/site-screenshot.jpg" width="420" height="300">
 </p>
